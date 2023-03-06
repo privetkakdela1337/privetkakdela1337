@@ -6,6 +6,7 @@
 <p align="left"> <a href="https://discord.com/users/954877301076656138" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/waza_xss" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 # 💻 Tech Stack
+
 <p align="left">
 <a href="https://coffeescript.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/coffeescript-colored-dark.svg" width="36" height="36" alt="Coffeescript" /></a>
 <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
@@ -52,10 +53,6 @@
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
 <a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored-dark.svg" width="36" height="36" alt="After Effects" /></a>
 </p>
-
-# 🔥 Streak Stats
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wakawaka-mazafaka&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
 # <img src="https://cdn.discordapp.com/emojis/510214342034325504.webp?size=96&quality=lossless" width="32" height="32" /> Latest listen 
 
