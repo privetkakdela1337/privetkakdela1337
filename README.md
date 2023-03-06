@@ -56,6 +56,6 @@
 
 # <img src="https://cdn.discordapp.com/emojis/510214342034325504.webp?size=96&quality=lossless" width="32" height="32" /> Latest listen 
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=zhpu8ylymcd9xya9ackiyowoq&width=800)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=zhpu8ylymcd9xya9ackiyowoq&width=820)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
