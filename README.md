@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm wazawaka goes wakawaka-mazafaka</h1>
+<h1 align="center">Hi 👋,</h1>
 🔭 I’m currently working on reversing-malware<br><br>🌱 I’m currently learning Certified Reverse Engineering Analyst (CREA)
 
 
-## 🌐 Socials
-<p align="left"> <a href="https://discord.com/users/954877301076656138" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/waza_xss" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 # 💻 Tech Stack
 
